@@ -21,7 +21,7 @@
       {
         "id": "c3",
         "title": "ጼና አልባሲሁ",
-        "audioUrl": "https://orthodoxmezmur.com/assets/orthodox/Yilma Hailu Ente Behelina.mp3",
+        "audioUrl": "https://raw.githubusercontent.com/KalebBerhanu/audio_asset/refs/heads/main/(0).amr",
         "durationSeconds": 420
       },
       {
@@ -42,7 +42,7 @@
     "id": "2",
     "title": "ቅዳሴ ትምህርት",
     "author": "ቅዳሴ ትምህርት",
-    "coverUrl": "https://placehold.co/400x600/121212/4CAF50?text=ቅዳሴ",
+    "coverUrl": "https://am.wikipedia.org/wiki/%E1%88%B5%E1%8B%95%E1%88%8D:VST_images_the_Lagoon_Nebula.jpg",
     "content_type": "Teaching",
     "chapters": [
       {
@@ -209,4 +209,5 @@
       }
     ]
   }
+
 ]
