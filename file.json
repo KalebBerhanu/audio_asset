@@ -223,9 +223,13 @@
         "durationSeconds": 420
       }
     ]
+  },
+  {
+    "id": "",
+    "title": "ንባብ ቤት",
+    "author": "መልዕክተ ዮሐንስ",
+    "content_type": "Teaching",
+    "coverUrl": "https://eathebook.org/images/eathebook1.jpg",
+    "chapters": []
   }
-
 ]
-
-
-
