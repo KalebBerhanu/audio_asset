@@ -39,21 +39,6 @@
     ]
   },
   {
-    "id": "2",
-    "title": "ቅዳሴ ትምህርት",
-    "author": "ቅዳሴ ትምህርት",
-    "coverUrl": "https://www.dmeyesus.org/img/gnrl/ethiopian-last-supper.jpg",
-    "content_type": "Learning",
-    "chapters": [
-      {
-        "id": "p1",
-        "title": "ሙከራ",
-        "audioUrl": "https://raw.githubusercontent.com/KalebBerhanu/audio_asset/refs/heads/main/(0).amr",
-        "durationSeconds": 300
-      }
-    ]
-  },
-  {
     "id": "3",
     "title": "ይልማ ኅይሉ ቁጥር 2",
     "author": "ይልማ ኅይሉ",
