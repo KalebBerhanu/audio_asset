@@ -200,6 +200,13 @@
     "author": "መልዕክተ ዮሐንስ",
     "content_type": "Teaching",
     "coverUrl": "https://eathebook.org/images/eathebook1.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "id": "track_1768232577121",
+        "title": "መልዕክተ ዮሐንስ",
+        "audioUrl": "https://eathebook.org/nibab_bet/yohanes_meleaket/1.Geez%20Nibab.mp3",
+        "durationSeconds": 300
+      }
+    ]
   }
 ]
