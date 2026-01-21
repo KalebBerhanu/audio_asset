@@ -229,5 +229,13 @@
         "durationSeconds": 300
       }
     ]
+  },
+  {
+    "id": "id_1768998085051",
+    "title": "መርጌታ ፀሐይ ብርሃኑ ቁጥር 1 ",
+    "author": "መርጌታ ፀሐይ ብርሃኑ",
+    "content_type": "Mezemure",
+    "coverUrl": "https://raw.githubusercontent.com/KalebBerhanu/audio_asset/refs/heads/main/meregeta_tesahe.png",
+    "chapters": []
   }
 ]
