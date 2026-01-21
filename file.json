@@ -236,6 +236,13 @@
     "author": "መርጌታ ፀሐይ ብርሃኑ",
     "content_type": "Mezemure",
     "coverUrl": "https://raw.githubusercontent.com/KalebBerhanu/audio_asset/refs/heads/main/meregeta_tesahe.png",
-    "chapters": []
+    "chapters": [
+      {
+        "id": "track_1768998148202",
+        "title": "የአዋጅ ነጋሪው ቃል",
+        "audioUrl": "https://www.ethiopianorthodox.org/churchmusic/mtsehaye/yedenagelmemekia.mp3",
+        "durationSeconds": 300
+      }
+    ]
   }
 ]
