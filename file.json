@@ -295,5 +295,13 @@
         "durationSeconds": 300
       }
     ]
+  },
+  {
+    "id": "id_1769239129605",
+    "title": "ቃለ ስብሃት",
+    "author": "ቅዳሴ",
+    "content_type": "QaleSebhat",
+    "coverUrl": "https://eathebook.org/images/eathebook1.jpg",
+    "chapters": []
   }
 ]
