@@ -91,5 +91,13 @@
         "durationSeconds": 200
       }
     ]
+  },
+  {
+    "id": "id_1770648226171",
+    "title": "ኩሎሙ",
+    "author": "ኩሉሞ",
+    "content_type": "ቃለስብሃት",
+    "coverUrl": "https://eathebook.org/images/eathebook1.jpg",
+    "chapters": []
   }
 ]
