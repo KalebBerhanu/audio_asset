@@ -195,27 +195,6 @@
     ]
   },
   {
-    "id": "7",
-    "title": "ንባብ ቤት",
-    "author": "መልዕክተ ዮሐንስ",
-    "content_type": "Teaching",
-    "coverUrl": "https://eathebook.org/images/eathebook1.jpg",
-    "chapters": [
-      {
-        "id": "track_1768232577121",
-        "title": "መልዕክተ ዮሐንስ  ግዕዝ ንባብ ምዕራፍ 1",
-        "audioUrl": "https://eathebook.org/nibab_bet/yohanes_meleaket/1.Geez%20Nibab.mp3",
-        "durationSeconds": 300
-      },
-      {
-        "id": "track_1768233065024",
-        "title": "መልዕክተ ዮሐንስ ውርድ ንባብ ምዕራፍ 1",
-        "audioUrl": "https://eathebook.org/nibab_bet/yohanes_meleaket/2.Wurd%20Ninab.mp3",
-        "durationSeconds": 300
-      }
-    ]
-  },
-  {
     "id": "id_1768998085051",
     "title": "መርጌታ ፀሐይ ብርሃኑ ቁጥር 1 ",
     "author": "መርጌታ ፀሐይ ብርሃኑ",
