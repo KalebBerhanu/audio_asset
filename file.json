@@ -64,5 +64,13 @@
         "durationSeconds": 300
       }
     ]
+  },
+  {
+    "id": "id_1770648039237",
+    "title": "ቃለ ስብሃት",
+    "author": "ቅዳሴ ግእዝ",
+    "content_type": "ቃለስብሃት",
+    "coverUrl": "https://eathebook.org/images/eathebook1.jpg",
+    "chapters": []
   }
 ]
