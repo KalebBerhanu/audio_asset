@@ -37,5 +37,13 @@
         "durationSeconds": 420
       }
     ]
+  },
+  {
+    "id": "id_1770647827806",
+    "title": "ቃለ ስብህት",
+    "author": "ቅዳሴ እዝል",
+    "content_type": "ቃለስብሃት",
+    "coverUrl": "https://eathebook.org/images/eathebook1.jpg",
+    "chapters": []
   }
 ]
