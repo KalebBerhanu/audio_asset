@@ -1,44 +1,5 @@
 [
   {
-    "id": "1",
-    "title": "ይልማ ኅይሉ ቁጥር 1",
-    "author": "ይልማ ኅይሉ",
-    "coverUrl": "https://i.playboard.app/p/MOaXD1o5SFgf6NXuu88mPscoj1GIxdEJxVz63yuG53x0ZNyCvYhgM86ujemY991QE--W30Kcug/default.jpg",
-    "content_type": "Mezemure",
-    "chapters": [
-      {
-        "id": "c1",
-        "title": "ሃሌ ሉያ",
-        "audioUrl": "https://orthodoxmezmur.com/assets/orthodox/Yilma Hailu Haleuya.mp3",
-        "durationSeconds": 372
-      },
-      {
-        "id": "c2",
-        "title": "እንተ በሕሊና",
-        "audioUrl": "https://orthodoxmezmur.com/assets/orthodox/Yilma Hailu Ente Behelina.mp3",
-        "durationSeconds": 420
-      },
-      {
-        "id": "c3",
-        "title": "ጼና አልባሲሁ",
-        "audioUrl": "https://raw.githubusercontent.com/KalebBerhanu/audio_asset/refs/heads/main/(0).amr",
-        "durationSeconds": 420
-      },
-      {
-        "id": "ያከብርዋ ለሰንበት",
-        "title": "ተናገሩ",
-        "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-        "durationSeconds": 420
-      },
-      {
-        "id": "c5",
-        "title": "ዓለምን ዞሬ",
-        "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-        "durationSeconds": 420
-      }
-    ]
-  },
-  {
     "id": "3",
     "title": "ይልማ ኅይሉ ቁጥር 2",
     "author": "ይልማ ኅይሉ",
