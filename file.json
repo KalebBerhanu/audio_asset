@@ -466,5 +466,13 @@
         "durationSeconds": 0
       }
     ]
+  },
+  {
+    "id": "id_1770731504210",
+    "title": "ሥርዓተ ቅዳሴ ዕዝል",
+    "author": "ዕዝል ሥርዓተ ቅዳሴ",
+    "content_type": "ቃለ ስብሐት",
+    "coverUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/images/logo.png",
+    "chapters": []
   }
 ]
