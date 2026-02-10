@@ -44,6 +44,13 @@
     "author": "ሥርዓተ ቅዳሴ ግዕዝ",
     "content_type": "ቃለ ስብሐት",
     "coverUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/images/logo.png",
-    "chapters": []
+    "chapters": [
+      {
+        "id": "track_1770725794835",
+        "title": "እምነ በሐ",
+        "audioUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/01.%E1%88%A5%E1%88%AD%E1%8B%93%E1%89%B0%20%E1%89%85%E1%8B%B3%E1%88%B4/0/%280%29.amr",
+        "durationSeconds": 100
+      }
+    ]
   }
 ]
