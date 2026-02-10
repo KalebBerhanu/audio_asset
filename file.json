@@ -37,5 +37,13 @@
         "durationSeconds": 420
       }
     ]
+  },
+  {
+    "id": "id_1770725731654",
+    "title": "ሥርዓተ ቅዳሴ ግዕዝ",
+    "author": "ሥርዓተ ቅዳሴ ግዕዝ",
+    "content_type": "ቃለ ስብሐት",
+    "coverUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/images/logo.png",
+    "chapters": []
   }
 ]
