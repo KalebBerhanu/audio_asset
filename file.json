@@ -775,5 +775,13 @@
         "durationSeconds": 0
       }
     ]
+  },
+  {
+    "id": "id_1770733532239",
+    "title": "ምንባብ ዘሰዓታት",
+    "author": "ምንባብ ዘሰዓታት",
+    "content_type": "ቃለ ስብሐት",
+    "coverUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/images/logo.png",
+    "chapters": []
   }
 ]
