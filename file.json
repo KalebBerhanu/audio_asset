@@ -1250,6 +1250,13 @@
     "author": "መቅድመ ተአምር",
     "content_type": "ቃለ ስብሐት",
     "coverUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/images/logo.png",
-    "chapters": []
+    "chapters": [
+      {
+        "id": "track_1779781675561",
+        "title": "ሃሌ ሉያ ሃሌ ሉያ ንስግድ...",
+        "audioUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/04.%E1%88%98%E1%89%85%E1%8B%B5%E1%88%98%20%E1%89%B0%E1%8A%A0%E1%88%9D%E1%88%AD/1.amr",
+        "durationSeconds": 222
+      }
+    ]
   }
 ]
