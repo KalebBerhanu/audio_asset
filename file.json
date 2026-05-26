@@ -35,6 +35,13 @@
         "title": "ዓለምን ዞሬ",
         "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
         "durationSeconds": 420
+      },
+      {
+        "id": "yt_sample",
+        "title": "YouTube Example",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "durationSeconds": 212,
+        "type": "youtube"
       }
     ]
   },
@@ -1651,6 +1658,21 @@
         "title": "ዕዝል ሠራዊት ዘካልዕ ጎርጎርዮስ",
         "audioUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/09.%E1%88%A0%E1%88%AB%E1%8B%8A%E1%89%B5/2/%289%29.amr",
         "durationSeconds": 234
+      }
+    ]
+  },
+  {
+    "id": "id_1779796130033",
+    "title": "በልቤ ከተማ ",
+    "author": "ተመላለስበት",
+    "content_type": "Mezemure",
+    "coverUrl": "https://i.ytimg.com/an_webp/ISvPD4aQxEo/mqdefault_6s.webp?du=3000&sqp=CJLw1dAG&rs=AOn4CLDTw4X-iA4iw5148chG42eDH55T1A",
+    "chapters": [
+      {
+        "id": "track_1779796183410",
+        "title": "በልቤ ከተማ ተመላለስበት",
+        "audioUrl": "https://youtu.be/ISvPD4aQxEo",
+        "durationSeconds": 133
       }
     ]
   }
