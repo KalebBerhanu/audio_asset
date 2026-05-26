@@ -1670,9 +1670,10 @@
     "chapters": [
       {
         "id": "track_1779796183410",
-        "title": "በልቤ ከተማ ተመላለስበት",
-        "audioUrl": "https://youtu.be/ISvPD4aQxEo",
-        "durationSeconds": 133
+        "title": "የሕይወቴ ወይኑ አልቆ",
+        "durationSeconds": 133,
+        "url": "https://www.youtube.com/watch?v=eI8GIcNqOLg&list=RDeI8GIcNqOLg&start_radio=1",
+        "type": "youtube"
       }
     ]
   }
