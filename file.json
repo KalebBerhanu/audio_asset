@@ -1279,5 +1279,13 @@
         "durationSeconds": 111
       }
     ]
+  },
+  {
+    "id": "id_1779781917531",
+    "title": "እሴብሕ ጸጋኪ",
+    "author": "እሴብሕ ጸጋኪ",
+    "content_type": "ቃለ ስብሐት",
+    "coverUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/images/logo.png",
+    "chapters": []
   }
 ]
