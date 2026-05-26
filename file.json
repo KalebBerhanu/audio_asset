@@ -1660,20 +1660,5 @@
         "durationSeconds": 234
       }
     ]
-  },
-  {
-    "id": "id_1779796130033",
-    "title": "በልቤ ከተማ ",
-    "author": "ተመላለስበት",
-    "content_type": "Mezemure",
-    "coverUrl": "https://i.ytimg.com/an_webp/ISvPD4aQxEo/mqdefault_6s.webp?du=3000&sqp=CJLw1dAG&rs=AOn4CLDTw4X-iA4iw5148chG42eDH55T1A",
-    "chapters": [
-      {
-        "id": "track_1779796183410",
-        "title": "በልቤ ከተማ ተመላለስበት",
-        "audioUrl": "https://youtu.be/ISvPD4aQxEo",
-        "durationSeconds": 133
-      }
-    ]
   }
 ]
