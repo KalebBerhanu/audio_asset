@@ -35,6 +35,13 @@
         "title": "ዓለምን ዞሬ",
         "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
         "durationSeconds": 420
+      },
+      {
+        "id": "yt_sample",
+        "title": "YouTube Example",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "durationSeconds": 212,
+        "type": "youtube"
       }
     ]
   },
