@@ -1271,6 +1271,13 @@
     "author": "መሐረነ አብ",
     "content_type": "ቃለ ስብሐት",
     "coverUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/images/logo.png",
-    "chapters": []
+    "chapters": [
+      {
+        "id": "track_1779781777360",
+        "title": "መሐረነ አብ",
+        "audioUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/05.%E1%88%98%E1%88%90%E1%88%A8%E1%8A%90%20%E1%8A%A0%E1%89%A5/1.amr",
+        "durationSeconds": 111
+      }
+    ]
   }
 ]
