@@ -1676,5 +1676,13 @@
         "type": "youtube"
       }
     ]
+  },
+  {
+    "id": "id_1781430027310",
+    "title": "ጸሎት ዘዘወትር",
+    "author": "ጸሎት ዘዘወትር",
+    "content_type": "መሠረተ ትምህርት ዘአብነት",
+    "coverUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/images/logo.png",
+    "chapters": []
   }
 ]
