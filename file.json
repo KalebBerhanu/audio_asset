@@ -1757,5 +1757,13 @@
         "durationSeconds": 300
       }
     ]
+  },
+  {
+    "id": "id_1781432632631",
+    "title": "ውዳሴ ማርያም",
+    "author": "ውዳሴ ማርያም",
+    "content_type": "መሠረተ ትምህርት ዘአብነት",
+    "coverUrl": "https://raw.githubusercontent.com/KalebBerhanu/QaleSebhate_Assets/main/images/logo.png",
+    "chapters": []
   }
 ]
